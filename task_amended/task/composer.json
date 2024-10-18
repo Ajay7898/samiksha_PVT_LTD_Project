@@ -1,0 +1,17 @@
+{
+    "name": "bfg/task",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bfg\\Task\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olu"
+        }
+    ],
+    "require": {}
+}
